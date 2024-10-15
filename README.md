@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 - <br />
 
-<div style="display: flex; align-items: center">
+<div style="display: flex; flex-direction: row" align="center">
   
   ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhm9701&theme=transparent&exclude_repo=MoRent,Jobit&layout=donut&hide_border=true) 
   
