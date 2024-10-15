@@ -7,12 +7,16 @@
 - ⚡ Fun fact: ...
 - <br />
 
-<div style="display: flex; flex-direction: row" align="center">
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=200&center=true&vCenter=true&width=650&lines=What's+up!;My+name+is+David;Check+out+the+cool+stuff+I've+built)](https://git.io/typing-svg)
   
-  ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhm9701&theme=transparent&exclude_repo=MoRent,Jobit&layout=donut&hide_border=true) 
   
-  ![My stats](https://github-readme-stats.vercel.app/api?username=rakhm9701&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true) 
-  
+
+  ---  
+
+  ![My stats](https://github-readme-stats.vercel.app/api?username=rakhm9701&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)
+
 </div>
  
 <!---
