@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and making full-featured web applications that solve real-world problems.
 - 🌱 I’m currently learning React netive
 - 💞️ Startup projects – I’m looking to collaborate with teams that want to create and develop new ideas.
-- 📫 How to reach me : 01084234884
+- 📫 How to reach me : 010-8423-4884. odilovrakhmidin@gmail.com
 - 😄 Pronouns: (he / him)
 - ⚡ Fun fact: I enjoy optimizing code the same way others enjoy solving puzzles.
 - <br />
