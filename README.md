@@ -4,6 +4,8 @@
 
 Building real-world blockchain products with clean architecture, security, and scalability in mind.
 
+![Profile Views](https://komarev.com/ghpvc/?username=rakhm9701&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
@@ -15,20 +17,20 @@ Building real-world blockchain products with clean architecture, security, and s
 **What I built:**
 - 🔐 Secure backend with **NestJS**
 - 🧠 Smart contracts written in **Solidity**
-- 🪙 Real ERC-20 token implementation
+- 🪙 Real ERC-20 token
 - 🧾 Virtual wallet address generation
 - 🔗 Web3 transaction signing & handling
-- 🌐 Deployed and tested on **Polygon**
+- 🌐 Polygon network integration
 
 **Tech stack:**
 `TypeScript · NestJS · Next.js · Solidity · Web3 · Polygon · Docker`
 
-📌 *Demo / code available on request*
+📌 *Demo / source code available on request*
 
 ---
 
 ## 💫 About Me
-- 💻 Full-stack developer focused on **real products**, not demos  
+- 💻 Full-stack developer focused on **real products**, not tutorials  
 - ⛓️ Strong interest in **Blockchain & Web3 security**
 - 🔧 Backend-first mindset with solid frontend experience
 - 🌏 Based in **Seoul, South Korea**
@@ -44,14 +46,22 @@ Building real-world blockchain products with clean architecture, security, and s
 
 ---
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rakhm9701&show_icons=true&theme=dark&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=rakhm9701&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhm9701&layout=compact&theme=dark)
+
+---
+
 ## 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/rakhmidin-odilov-a7237a363/
-- Email: odilovrakhmidin@gmail.com
-- Portfolio: https://furnix.uz/
+- 💼 LinkedIn: https://www.linkedin.com/in/rakhmidin-odilov-a7237a363/
+- 📧 Email: odilovrakhmidin@gmail.com
+- 🌍 Portfolio: https://furnix.uz/
 
 ---
 
 > “I don’t just write code — I build systems that work in production.”
+
 
 
 
