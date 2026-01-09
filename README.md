@@ -64,9 +64,6 @@ Building real-world blockchain products with clean architecture, security, and s
 
 
 
-
-
-
 <!-- <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+David+👋;Full-Stack+Web+Developer;Building+Real-World+Solutions)](https://git.io/typing-svg)
