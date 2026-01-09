@@ -1,5 +1,64 @@
 <div align="center">
 
+## 🚀 David — Full-Stack & Web3 Developer
+
+Building real-world blockchain products with clean architecture, security, and scalability in mind.
+
+</div>
+
+---
+
+## ⭐ Featured Project — Blockchain Gaming Wallet
+
+🎮 **Gaming Wallet with Web3 Integration (Polygon)**
+
+**What I built:**
+- 🔐 Secure backend with **NestJS**
+- 🧠 Smart contracts written in **Solidity**
+- 🪙 Real ERC-20 token implementation
+- 🧾 Virtual wallet address generation
+- 🔗 Web3 transaction signing & handling
+- 🌐 Deployed and tested on **Polygon**
+
+**Tech stack:**
+`TypeScript · NestJS · Next.js · Solidity · Web3 · Polygon · Docker`
+
+📌 *Demo / code available on request*
+
+---
+
+## 💫 About Me
+- 💻 Full-stack developer focused on **real products**, not demos  
+- ⛓️ Strong interest in **Blockchain & Web3 security**
+- 🔧 Backend-first mindset with solid frontend experience
+- 🌏 Based in **Seoul, South Korea**
+- 🚀 Open to interesting projects and collaborations
+
+---
+
+## 🛠 Core Stack
+- **Backend:** NestJS, Node.js, PostgreSQL, Redis
+- **Frontend:** Next.js, React, TailwindCSS
+- **Blockchain:** Solidity, Web3.js, Polygon
+- **DevOps:** Docker, Nginx, PM2
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/rakhmidin-odilov-a7237a363/
+- Email: odilovrakhmidin@gmail.com
+- Portfolio: https://furnix.uz/
+
+---
+
+> “I don’t just write code — I build systems that work in production.”
+
+
+
+
+
+<!-- <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+David+👋;Full-Stack+Web+Developer;Building+Real-World+Solutions)](https://git.io/typing-svg)
 
 </div>
@@ -45,4 +104,4 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
