@@ -1,6 +1,9 @@
 <div align="center">
 
-## 🚀 David — Full-Stack & Web3 Developer
+## 🚀 David — Full-Stack Web Developer   |   Currently working with Blockchain & Web3
+
+
+
 
 Building real-world blockchain products with clean architecture, security, and scalability in mind.
 
@@ -39,17 +42,21 @@ Building real-world blockchain products with clean architecture, security, and s
 ---
 
 ## 🛠 Core Stack
-- **Backend:** NestJS, Node.js, PostgreSQL, Redis
-- **Frontend:** Next.js, React, TailwindCSS
+- **Backend:** NestJS, Node.js, PostgreSQL, MongoDB, Redis
+- **Frontend:** Next.js, React, TailwindCSS, SASS
 - **Blockchain:** Solidity, Web3.js, Polygon
 - **DevOps:** Docker, Nginx, PM2
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rakhm9701&show_icons=true&theme=dark&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=rakhm9701&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhm9701&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakhm9701&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhm9701&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rakhm9701&theme=dark)
+
 
 ---
 
