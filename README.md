@@ -91,6 +91,14 @@ Building real-world blockchain products with clean architecture, security, and s
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rakhm9701&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rakhm9701&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhm9701&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
+
 > “I don’t just write code — I build systems that work in production.”
 
 ### ✍️ Random Dev Quote
