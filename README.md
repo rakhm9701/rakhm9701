@@ -28,8 +28,6 @@ Building real-world blockchain products with clean architecture, security, and s
 **Tech stack:**
 `TypeScript · NestJS · Next.js · Solidity · Web3 · Polygon · Docker`
 
-📌 Demo and source code can be shared upon request due to project confidentiality
-
 
 ---
 
